@@ -1,0 +1,6 @@
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\bin\Debug\DevAndBuildToolsTask.exe.config
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\bin\Debug\DevAndBuildToolsTask.exe
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\bin\Debug\DevAndBuildToolsTask.pdb
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\obj\Debug\DevAndBuildToolsTask.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\obj\Debug\DevAndBuildToolsTask.exe
+D:\DARIA\3course_sem1\software_testing\lab05\DevAndBuildToolsTask\DevAndBuildToolsTask\obj\Debug\DevAndBuildToolsTask.pdb

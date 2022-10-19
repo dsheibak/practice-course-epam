@@ -1,0 +1,9 @@
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+D:\DARIA\3course_sem1\software_testing\test_soft\practice-epam\practice-course-epam\.NET\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
