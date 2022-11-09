@@ -1,0 +1,13 @@
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\selenium-manager\linux\selenium-manager
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\selenium-manager\macos\selenium-manager
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\ICanWin.exe.config
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\ICanWin.exe
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\ICanWin.pdb
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\bin\Debug\WebDriver.dll
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\obj\Debug\ICanWin.csprojAssemblyReference.cache
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\obj\Debug\ICanWin.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\obj\Debug\ICanWin.csproj.CopyComplete
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\obj\Debug\ICanWin.exe
+D:\DARIA\3course_sem1\software_testing\lab09\ICanWin\ICanWin\obj\Debug\ICanWin.pdb

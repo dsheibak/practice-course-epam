@@ -1,0 +1,13 @@
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe.config
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\TestSelenium.exe
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\TestSelenium.pdb
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\WebDriver.dll
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csproj.CopyComplete
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\obj\Debug\TestSelenium.exe
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\obj\Debug\TestSelenium.pdb
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\obj\Debug\TestSelenium.csprojAssemblyReference.cache
+D:\DARIA\3course_sem1\software_testing\lab09\TestSelenium\TestSelenium\bin\Debug\SeleniumExtras.WaitHelpers.dll
