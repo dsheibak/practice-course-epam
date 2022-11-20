@@ -1,0 +1,6 @@
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\bin\Debug\Sample01.exe.config
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\bin\Debug\Sample01.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\bin\Debug\Sample01.pdb
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\obj\Debug\Sample01.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\obj\Debug\Sample01.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Sample01\Sample01\obj\Debug\Sample01.pdb

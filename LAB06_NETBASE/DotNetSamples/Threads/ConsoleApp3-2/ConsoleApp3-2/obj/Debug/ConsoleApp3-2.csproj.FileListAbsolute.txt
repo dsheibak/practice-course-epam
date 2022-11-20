@@ -1,0 +1,12 @@
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.exe.config
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.pdb
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.csproj.CoreCompileInputs.cache
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.pdb
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.exe.config
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\bin\Debug\ConsoleApp3-2.pdb
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp3-2\ConsoleApp3-2\obj\Debug\ConsoleApp3-2.pdb

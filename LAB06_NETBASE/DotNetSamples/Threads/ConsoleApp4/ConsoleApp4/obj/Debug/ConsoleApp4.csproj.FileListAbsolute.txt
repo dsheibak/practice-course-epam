@@ -1,0 +1,18 @@
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\1KIRILL\DASHUTA\Дашута БГТУ\3семестр\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 15\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\DARIA\3course_sem1\software_testing\Lab06\DotNetSamples\Threads\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
