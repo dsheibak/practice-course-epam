@@ -1,0 +1,11 @@
+
+public class ImplementationThread {
+
+	public static void main(String[] args) 
+	{
+		Thread mainThread = Thread.currentThread();
+		mInfoTextView.setText("Текущий поток: " + mainThread.getName());
+
+	}
+
+}

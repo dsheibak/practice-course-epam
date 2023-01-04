@@ -1,0 +1,24 @@
+import java.util.Scanner;
+import java.math.*;
+
+public class ElectronicWatch 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Enter number of seconds: "); 
+		Scanner scanner = new Scanner(System.in); 
+		int seconds = scanner.nextInt();
+		System.out.println("Seconds: " + seconds); 
+		
+		int hours = seconds / 3600;
+		if (hours == 24) hours = 0;
+		
+		double minutes = ((double)seconds / 3600) % 1;
+		
+		double second = ((double)minutes*60) % 1;
+		
+		System.out.println(hours + ":" + (int)(minutes*60) + ":" + (int)(Math.round(second*60))); 
+	}
+
+}

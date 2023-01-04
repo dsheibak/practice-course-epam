@@ -1,0 +1,9 @@
+
+public class BMV extends Car
+{
+	@Override 
+	public int getNumOfSeets()
+	{
+		return 2;
+	}
+}

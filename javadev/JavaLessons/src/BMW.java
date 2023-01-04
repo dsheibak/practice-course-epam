@@ -1,0 +1,16 @@
+
+public class BMW extends Car
+{
+	@Override 
+	public int getNumOfSeets()
+	{
+		return 2;
+	}
+	
+	@Override
+	public void driving()
+	{
+		System.out.println("bmw car is driving");
+	}
+}
+

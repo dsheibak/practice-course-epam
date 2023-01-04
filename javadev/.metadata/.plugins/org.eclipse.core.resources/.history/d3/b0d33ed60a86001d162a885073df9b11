@@ -1,0 +1,12 @@
+
+public class Car 
+{
+	public void driving()
+	{
+		System.out.println("driving");
+	}
+	
+	int numofSeets = 4;
+	
+	
+}

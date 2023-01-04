@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class ImplementationThread {
+
+	public static void main(String[] args) 
+	{
+		Thread mainThread = Thread.currentThread();
+		System.out.println("Текущий поток: " + mainThread.getName());
+		
+		mainThread.setName("CatThread");
+		System.out.println("\nНовое имя потока: " + mainThread.getName());
+	}
+
+}

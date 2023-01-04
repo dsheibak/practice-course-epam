@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class ImplementationThread {
+
+	public static void main(String[] args) 
+	{
+		Thread mainThread = Thread.currentThread();
+		System.out.println("Current thread: " + mainThread.getName());
+		
+		mainThread.setName("CatThread");
+		System.out.println("\nNew tread name: " + mainThread.getName());
+		
+		System.out.println("Current thread: " + mainThread); //имя - приоритет - имя группы
+		
+		new JThread("JThread").start();
+		mainThread = Thread.currentThread();
+	}
+
+}

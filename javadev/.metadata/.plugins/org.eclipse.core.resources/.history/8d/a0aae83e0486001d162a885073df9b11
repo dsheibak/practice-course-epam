@@ -1,0 +1,27 @@
+import java.util.Scanner;
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+public class ElectronicWatch 
+{
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Enter number of seconds: "); 
+		Scanner scanner = new Scanner(System.in); 
+		int seconds = scanner.nextInt();
+		System.out.println("Seconds: " + seconds); 
+		
+		int hours = seconds / 3600;
+		if (hours == 24) hours = 0;
+		
+		double minutes = (double)seconds / 3600;
+		
+		Double truncatedDoubleMinutes = BigDecimal.valueOf(truncatedDoubleMinutes)
+			    .setScale(4, RoundingMode.HALF_UP)
+			    .doubleValue();
+		
+		System.out.println(hours + ":" + truncatedDoubleMinutes*60 + ":00"); 
+	}
+
+}

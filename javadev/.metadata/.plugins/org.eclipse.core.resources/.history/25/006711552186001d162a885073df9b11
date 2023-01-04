@@ -1,0 +1,163 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+
+	void useCar (Car car)
+	{
+		car.driving();
+		System.out.println(car.getNumOfSeets());
+	}
+	
+	public static void main(String[] args) throws Exception
+	{
+		Main main = new Main();
+		Car car = new BMW();
+		main.useCar(car);
+		
+		Person user = new Person();
+		System.out.println(user.getName());
+		
+		//работа с файлами
+		File file = new File ("temp.txt");
+		if (!file.exists()) 
+		{
+			System.out.println(file.getName() + " physically doesn't exists");
+			file.createNewFile();
+		}
+		if (file.isFile()) 
+		{
+			System.out.println(file.getName() + " is file");
+		}
+		
+		FileWriter fileWriter = new FileWriter (file);
+		fileWriter.write("source code was implemented by dasha");
+		
+		//fileWriter.flush();
+		//fileWriter.close();
+		
+		FileReader fileReader = new FileReader (file);
+		char[] charsFile = new char[255];
+		fileReader.read(charsFile);
+		System.out.println (charsFile);
+		
+		BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+		bufferedWriter.write("source code was implemented by dasha");
+		bufferedWriter.newLine();
+		bufferedWriter.write("go asleep");
+		
+		bufferedWriter.flush();
+		bufferedWriter.close();
+		
+		BufferedReader bufferedReader = new BufferedReader (fileReader);
+		while (bufferedReader.ready()) //дошли ли мы до конца файла и можно ли читать далее
+		{
+			System.out.println(bufferedReader.readLine());
+		}
+		
+		User userToSerialize = new User();
+		userToSerialize.lifeLevel = 55;
+		Sord sord = new Sord();
+		sord.level = 5;
+		userToSerialize.sord = sord;
+		
+		System.out.println("Serialize user life level " + userToSerialize.lifeLevel);
+		System.out.println("Serialize user sord level " + userToSerialize.sord.level);
+		
+		FileOutputStream fileOutputStream = new FileOutputStream("userFile");
+		ObjectOutputStream objectOutputStream = new ObjectOutputStream (fileOutputStream);
+		objectOutputStream.writeObject(userToSerialize);
+		objectOutputStream.close();
+		
+		FileInputStream fileInputStream = new FileInputStream ("userFile");
+		ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+		
+		User userDeserialize = (User)objectInputStream.readObject();
+		objectInputStream.close();
+		
+		System.out.println("Deserialize user life level " + userDeserialize.lifeLevel);
+		System.out.println("Deserialize user sord level " + userDeserialize.sord);
+		
+		int[] array = new int[10]; //сразу выделяем память при создании - она фиксируется
+		
+		Collection collection = new ArrayList();
+		//Collections collections;
+		//Arrays arrays;
+		
+		collection.add("1");
+		collection.add("2");
+		collection.add("3");
+		
+		collection.remove("2");
+		
+		//Iterator iterator = collection.iterator();
+		//while (iterator.hasNext()) System.out.println(iterator.next());
+		
+		//for тоже работает на основе итераторов
+		for (Object o: collection) System.out.println(o);
+		
+		List myList = new ArrayList(); 
+		
+		myList.add("55"); 
+		myList.add("66");
+		myList.add("77");
+		
+		
+		myList.set(2, "88");
+		
+		System.out.println("Second element of ArrayList: " + myList.get(1));
+		
+		for (int i = 0; i < myList.size(); i++)
+		{
+			System.out.print(myList.get(i));
+			System.out.print(" ");
+		}
+		System.out.println();
+		
+		Queue myQueue = new PriorityQueue();
+		myQueue.add("daria sheibak");
+		myQueue.add("evgenia savenko");
+		myQueue.add("plis kristina");
+		
+		System.out.println(myQueue.peek());	//достаем элемент, не удаляем
+		myQueue.poll(); //достали и удалили
+		System.out.println(myQueue.peek());	//достаем элемент, не удаляем
+		
+		PriorityQueue<Integer> myPriorityQueue = new PriorityQueue<Integer>();
+		myPriorityQueue.add(1);
+        myPriorityQueue.add(2);
+        myPriorityQueue.add(3);
+        System.out.println("Priority queue: ");
+        for(int pq : myPriorityQueue) 
+        {
+            System.out.println(pq);
+        }
+		
+		Set mySet = new HashSet(); //Начальная емкость по умолчанию 16
+		mySet.add("1");
+		mySet.add("2");
+		mySet.add("3");
+		mySet.add("3");
+		mySet.add("3");
+		mySet.add("3");
+		mySet.add("3");
+		mySet.add("3");
+		
+		System.out.println("Hash set: ");
+		for (Object o : mySet)
+		{
+			System.out.println(o);
+		}
+		
+		Map myMap = new HashMap(); //добавляет значения по ключу, ассоциативный массив
+		myMap.put("1", "Dan Brown");
+		myMap.put("2", "Karnegi");
+		myMap.put("3", "Jack London");
+		myMap.put("3", "Teodor Drizer");
+		
+		System.out.println(myMap.get("3"));
+		
+		
+	}
+
+}
